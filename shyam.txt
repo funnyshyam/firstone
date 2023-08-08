@@ -1,0 +1,3 @@
+here is our data which is inserted
+take this as input and close it
+
